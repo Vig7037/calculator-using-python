@@ -1,2 +1,24 @@
-# calculator-using-python
-simple calculator
+# Calculator
+
+This is a simple calculator project implemented in Python. It can perform basic arithmetic operations, such as addition, subtraction, multiplication, and division.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Python 3.x installed on your machine
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/calculator.git
+'''bash
