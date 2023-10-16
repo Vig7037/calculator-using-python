@@ -21,4 +21,6 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/your-username/calculator.git
-```bash
+   ```
+ ## Acknowledgement
+The project was developed by <a href="https://github.com/Vig7037">Vighnesh Singhal</a>.  
