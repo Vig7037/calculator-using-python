@@ -21,4 +21,4 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/your-username/calculator.git
-'''bash
+```bash
